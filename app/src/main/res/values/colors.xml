@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+        <color name="colorPrimary">#FF5733</color>  <!-- Une couleur rouge-orange -->
+        <color name="colorSecondary">#33A1FF</color>  <!-- Une couleur bleue -->
+        <color name="colorTertiary">#9B59B6</color>  <!-- Une couleur violette -->
+
+
 </resources>
